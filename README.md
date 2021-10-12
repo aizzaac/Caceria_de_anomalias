@@ -1,2 +1,2 @@
-# Caceria_de_anomalias
+# Cacería_de_anomalías
 Aplicación de métodos de detección de anomalías
